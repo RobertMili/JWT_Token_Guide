@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>JWT_Token_Guild</artifactId>
+    <artifactId>JWT_Token_Guide</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>JWT_Token_Guild</name>
     <description>JWT_Token_Guild</description>
